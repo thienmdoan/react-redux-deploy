@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "server/index.js",
+  "engines": {
+    "node": "6.9.2"
+  },
   "scripts": {
     "start": "node .",
     "start:watch": "nodemon .",
